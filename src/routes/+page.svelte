@@ -32,7 +32,7 @@
     Hi Shmolph
   </p>
   <div class="buttons-container">
-    <a href="https://github.com/Beijing-corn87" target="_blank" rel="noopener noreferrer" class="github-button">
+    <a href="https://github.com/bluekiwidev" target="_blank" rel="noopener noreferrer" class="github-button">
       <i class="fab fa-github"></i> GitHub Profile
     </a>
     <a href="/projects" class="projects-button">Projects</a>
