@@ -1,4 +1,6 @@
-# sv
+# Personal Website
+
+![GitHub stars](https://img.shields.io/github/stars/bluekiwidev/bluekiwidev.github.io) ![CI](https://github.com/bluekiwidev/bluekiwidev.github.io/actions/workflows/ci.yml/badge.svg) ![GitHub license](https://img.shields.io/github/license/bluekiwidev/bluekiwidev.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/bluekiwidev/bluekiwidev.github.io) ![GitHub issues](https://img.shields.io/github/issues/bluekiwidev/bluekiwidev.github.io)
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
