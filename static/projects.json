@@ -26,5 +26,27 @@
     "languages": ["C++"],
     "github_link": "https://github.com/bluekiwidev/Arduino-Egg-incubator",
     "public_archive": false
+  },
+  {
+    "title": "Alex Games",
+    "description": "Games ported to go. For alex",
+    "languages": ["Go"],
+    "github_link": "https://github.com/bluekiwidev/Alex-Games",
+    "public_archive": false
+  },
+  {
+    "title": "Discord Message Forwarder",
+    "description": "Uses a discord bot token to scan a channel for messages and send it to a endpoint",
+    "languages": ["JavaScript"],
+    "github_link" : "https://github.com/bluekiwidev/discord-message-forwarder",
+    "public_archive": false
+  },
+  {
+    "title": "Afker",
+    "description": "A lightweight script to afk mining cobblestone in Minecraft",
+    "languages": ["Go"],
+    "github_link": "https://github.com/bluekiwidev/afker",
+    "public_archive": false
   }
+
 ]
